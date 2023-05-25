@@ -1,0 +1,35 @@
+nav {
+    background-color: rgb(167, 64, 207);
+}
+
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display:block;
+    color:black;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+th, td {
+    border-bottom: 3px solid #ddd;
+}
+
+table, th, td {
+    border: 3px solid;
+}
